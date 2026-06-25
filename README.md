@@ -18,4 +18,5 @@
 | Azure Databricks | smunive-dbw-dataengineered |
 | Azure Data Factory | smunive-adf-dataengineered3 |
 | Key Vault | smunive-kv-dataengi3 |
+| Microsoft Fabric Workspace | smunive-ws-dataengineered3 |
 | UAMI | smunive-uami-dataengineered3 |
